@@ -32,7 +32,9 @@ The interactive dashboard allows users to slice the data by gender, address (Urb
 * Student-Performance-Analysis : The complete Power BI project file.
 * **Screenshots:**
   * Dashboard Page 1 - Demographics
+
 <img width="912" height="496" alt="Screenshot 2026-03-24 170512" src="https://github.com/user-attachments/assets/25602015-d760-4028-b35c-e630bcf36a41" />
 
   * Dashboard Page 2 - Social & Academic Factors
-<img width="963" height="540" alt="Screenshot 2026-03-24 170533" src="https://github.com/user-attachments/assets/2fd0e167-41c7-4e61-910b-f9b281d58e0b" />
+
+<img width="952" height="538" alt="Screenshot 2026-03-24 175221" src="https://github.com/user-attachments/assets/00e71981-17f9-43ff-8b02-98a0cc228058" />
