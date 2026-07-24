@@ -28,7 +28,7 @@ The interactive dashboard allows users to slice the data by gender, address (Urb
 * **Social & Health Factors:** Mapped the relationship between a student's self-reported health status, how often they go out with friends, and their dedicated study time to identify lifestyle impacts on education.
 
 ## 📂 Repository Files
-* student_data.csv : The original raw dataset used for this analysis.
+* student_dataset.xlsx : The original dataset used for this analysis.
 * Student-Performance-Analysis : The complete Power BI project file.
 * **Screenshots:**
   * Dashboard Page 1 - Demographics
